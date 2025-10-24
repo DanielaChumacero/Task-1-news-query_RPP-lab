@@ -1,0 +1,12 @@
+feedparser
+tiktoken
+sentence-transformers
+chromadb
+langchain
+datasets
+transformers
+torch
+matplotlib
+pandas
+seaborn
+scikit-learn
